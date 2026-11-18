@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="public/logo.svg" width="92" alt="TESSERACT logo" />
-
 # TESSERACT
 ### AI Exam Question Quality Analyzer
 
