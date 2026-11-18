@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Analisis Formasi & Diksi Puisi Indonesia",
+    "version": "1.2",
+    "last_reviewed": "2026-05-20",
+    "purpose": "Panduan menganalisis struktur, diksi, dan makna puisi Indonesia"
+  },
+  "elements": [
+    {
+      "name": "Diksi (Pilihan Kata)",
+      "description": "Penggunaan kata-kata dalam puisi yang dipilih untuk menciptakan makna, suara, dan suasana tertentu.",
+      "examples": [
+        "Konotasi vs denotasi dalam kata 'mati' pada 'Aku' karya Chairil Anwar",
+        "Kata arkais dan usang pada puisi Sanusi Pane (contoh: 'kerdip', 'purnama')"
+      ]
+    },
+    {
+      "name": "Imaji (Penggambaran)",
+      "description": "Penggunaan kata yang menimbulkan citraan dalam pancaindra pembaca.",
+      "examples": [
+        "Imaji visual dalam 'Citra Cinta' karya M. Aan Mansyur",
+        "Imaji taktil pada puisi 'Kursi' karya Sapardi Djoko Damono"
+      ]
+    },
+    {
+      "name": "Majas (Gaya Bahasa)",
+      "description": "Bahasa kias untuk mendapatkan efek tertentu, seperti personifikasi, metafora, atau hiperbola.",
+      "examples": [
+        "Personifikasi dalam 'Senja di Pelabuhan' karya Chairil Anwar",
+        "Metafora pada puisi 'Karangan Bunga' karya Sapardi Djoko Damono"
+      ]
+    },
+    {
+      "name": "Rima (Persamaan Bunyi)",
+      "description": "Pengulangan bunyi yang teratur dalam puisi, baik itu bunyi awal, tengah, atau akhir.",
+      "examples": [
+        "Rima pada pantun dan syair klasik (a-b-a-b)",
+        "Rima a-b-a-b dalam 'Buku Kehidupan' karya Sapardi Djoko Damono"
+      ]
+    },
+    {
+      "name": "Tipografi (Bentuk Visual)",
+      "description": "Penataan visual puisi, termasuk larik, bait, dan penempatan kata di halaman.",
+      "examples": [
+        "Tipografi tradisional dalam puisi 'Hujan Bulan Juni' karya Sapardi Djoko Damono",
+        "Struktur visual modern dalam 'Yay!' karya Joko Pinurbo"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Puisi Lama",
+      "description": "Puisi yang terikat aturan baku: jumlah larik, rima, dan jumlah suku kata.",
+      "examples": ["Pantun", "Syair", "Gurindam", "Mantra"]
+    },
+    {
+      "name": "Puisi Baru",
+      "description": "Puisi yang lebih bebas dalam bentuk, namun tetap memperhatikan tipografi, rima, dan makna.",
+      "examples": ["Puisi naratif", "Puisi lirik", "Puisi epigram"]
+    },
+    {
+      "name": "Puisi Kontemporer",
+      "description": "Puisi yang benar-benar bebas dari aturan, bahkan mengeksplorasi bentuk baru seperti visual atau aksi.",
+      "examples": ["Puisi konkret", "Puisi mantera", "Puisi aksi"]
+    }
+  ],
+  "reference_materials": [
+    {
+      "title": "Kamus Istilah Puisi Indonesia",
+      "author": "Ahmad</improved>M.oeo
+",
+      "publication_year": 1998,
+      "publisher": "Grasindo",
+      "notes": "Sumber istilah teknis puisi Indonesia yang komprehensif."
+    },
+    {
+      "title": "Puisi Indonesia: Bentuk dan Makna",
+      "author": "S. Effendi",
+      "publication_year": 2005,
+      "publisher": "Yayasan Obor Indonesia",
+      "notes": "Analisis struktur dan makna puisi Indonesia dari masa ke masa."
+    }
+  ],
+  "instructional_sequence": [
+    {
+      "step": 1,
+      "title": "Pembacaan Awal",
+      "description": "Membaca puisi secara utuh untuk memahami makna umum dan suasana emosional."
+    },
+    {
+      "step": 2,
+      "title": "Identifikasi Struktur",
+      "description": "Menganalisis jumlah bait, larik, dan pola rima puisi."
+    },
+    {
+      "step": 3,
+      "title": "Analisis Diksi dan Imaji",
+      "description": "Mengidentifikasi kata-kata kunci dan citraan yang menimbulkan makna mendalam."
+    },
+    {
+      "step": 4,
+      "title": "Interpretasi Makna",
+      "description": "Menafsirkan makna keseluruhan puisi berdasarkan unsur-unsur yang ditemukan."
+    }
+  ],
+  "assessment_rubric": {
+    "criteria": [
+      "Ketepatan identifikasi struktur dan unsur pembangun puisi",
+      "Kedalaman interpretasi makna",
+      "Kemampuan mengaitkan diksi dengan efek yang ditimbulkan",
+      "Kejelasan dan keruntutan analisis"
+    ],
+    "scoring_scale": "1-4 (Kurang, Cukup, Baik, Sangat Baik)"
+  },
+  "common_pitfalls": [
+    "Menafsirkan makna puisi hanya berdasarkan judul",
+    "Mengabaikan konotasi dan makna simbolis dari diksi",
+    "Menganggap semua puisi harus memiliki rima yang teratur",
+    "Tidak memperhatikan tipografi dan penataan visual puisi"
+  ],
+  "extended_activities": [
+    {
+      "activity": "Bedah Puisi Kelompok",
+      "description": "Mahasiswa menganalisis puisi yang berbeda dalam kelompok, kemudian mempresentasikan hasilnya."
+    },
+    {
+      "activity": "Penulisan Ulang Puisi",
+      "description": "Mengubah puisi lama menjadi bentuk baru sambil mempertahankan makna inti."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apakah setiap puisi harus memiliki rima?",
+      "answer": "Tidak. Puisi kontemporer sering kali tidak mengikuti pola rima yang baku."
+    },
+    {
+      "question": "Bagaimana cara membedakan diksi konotatif dan denotatif?",
+      "answer": "Diksi denotatif memiliki makna lugas sesuai kamus, sedangkan diksi konotatif memiliki makna kias atau tersirat."
+    }
+  ]
+}
